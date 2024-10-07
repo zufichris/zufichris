@@ -30,7 +30,7 @@ _I am open to new opportunities._
 
 ![GITHUB Languages](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg?username=zufichris)
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=zufichris&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+
 ---
 
 #### I am 🧙 Software Developer on full-time.
