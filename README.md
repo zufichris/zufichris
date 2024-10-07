@@ -30,6 +30,7 @@ _I am open to new opportunities._
 
 ![GITHUB Languages](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg?username=zufichris)
 
+<p><img src="https://github-profile-trophy.vercel.app/?username=zufichris&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
 ---
 
 #### I am 🧙 Software Developer on full-time.
@@ -63,17 +64,6 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=zufichris&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
-
-#### Technology that I am using but just less
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=flat-square&logo=Clojure&logoColor=Clojure)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 
 ---
 
