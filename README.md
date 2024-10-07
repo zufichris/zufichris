@@ -63,6 +63,21 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+<details>
+ <summary>Full Stats (click me to toggle 👀)</summary>
+ <br>
+ <p align="center">
+  <a href="https://indogithubers.vercel.app/">
+   <img src="https://indogithubers-badge.vercel.app/badge?username=zufichris" alt="IndoGitHubers Badge">
+  </a>
+ </p>
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zufichris&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+ <p><img src="https://github-readme-stats.vercel.app/api?username=zufichris&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
+ <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zufichris&theme=algolia" alt="Stat Streak" /></p>
+ <p><img src="https://github-profile-trophy.vercel.app/?username=zufichris&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+  <p><img src="profile-3d-contrib/profile-night-green.svg" alt="Github Contribution Stats" /></p>
+</details>
+
 #### Technology that I am using but just less
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
