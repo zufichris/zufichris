@@ -67,6 +67,6 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 
 ---
 
-#### Let Work Together.
+#### Let's Work Together.
 
 ![]
