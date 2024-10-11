@@ -33,7 +33,7 @@ _I am open to new opportunities._
 
 ---
 
-#### I am 🧙 Software Developer on full-time.
+#### Picking the right tool for the job
 
 In my view, the best approach is to pick the tech that's just right for the problem.
 
