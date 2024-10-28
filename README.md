@@ -28,7 +28,7 @@ _I am open to new opportunities._
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zufichris&count_private=true&show_icons=true&theme=light)
 
-![GITHUB Languages](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg?username=zufichris)
+![GITHUB Languages](https://raw.githubusercontent.com/zufichris/github-stats/master/generated/languages.svg?username=zufichris)
 
 
 ---
