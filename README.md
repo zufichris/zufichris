@@ -1,4 +1,4 @@
-📢 Nominate ([@Chris](https://github.com/zufichris/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
+📢 Nominate ([@zufichris](https://github.com/zufichris/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
 
 ---
 
