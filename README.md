@@ -27,7 +27,7 @@
 
 In my view, the best approach is to pick the tech that's just right for the problem.
 
-Additionally, I enjoy expanding my knowledge, and because of that, I am open to learning new technologies and languages 🐱‍👓
+Additionally, I enjoy expanding my knowledge, and because of that, I am open to learning new technologies and languages
 
 
 ---
@@ -38,8 +38,6 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@a-zufichris)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zufi-christian-5b216a248)
 <hr/>
-
----
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zufichris.zufichris" />
 
