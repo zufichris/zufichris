@@ -16,8 +16,8 @@
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,php,python,c,mongodb,postgres,mysql,aws" /><br>
-       <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mui,html,css,vscode,github,docker,tailwind,git,angular" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,php,python,c,bash,mongodb,postgres,mysql,aws" /><br>
+       <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mui,html,css,vscode,github,docker,linux,tailwind,git,angular" />
 </div>
 
 <br/>
