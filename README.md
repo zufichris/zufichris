@@ -79,7 +79,7 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="http://x.com/zufichris_" target="_blank">
-    <img src="https://img.shields.io/badge/X-0077B5?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/X?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
   </a>
   <a href="https://zufichris.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
