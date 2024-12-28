@@ -13,6 +13,8 @@
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zufichris&theme=blue-navy)](https://git.io/streak-stats)
+
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
 <div align="center">
