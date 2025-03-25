@@ -1,1 +1,1 @@
-[Welcome](zufichris.git)
+[Welcome](zufichris.gif)
