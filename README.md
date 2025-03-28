@@ -3,42 +3,6 @@
 
 ---
 
-|
-
-
-----
-
-
-|
-|
-|
-
----
-
-|
-|
-|
-
---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-
 ## Connect with Me
-- [x.com](https://x.com/zufichris_)
+- [x.com @zufichris_](https://x.com/zufichris_)
+- [zufichris@gmail.com](https://x.com/zufichris_)
